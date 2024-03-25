@@ -1,0 +1,60 @@
+baseURL = 'https://cailucky777.github.io/luyingc.github.io/'
+languageCode = 'en-us'
+title = 'Savina Blog'
+theme = [ "PaperMod" ]
+
+enableEmoji = true
+
+
+[params]
+defaultTheme = "auto"
+env = "production"
+author = "Savina"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = true
+ShowPageNums = true
+ShowToc = true
+
+[params.homeInfoParams]
+Title = ":penguin: Seize the day"
+Content = "This is Savina, hope you have a great day! "
+
+[[params.socialIcons]]
+  name = "Github"
+  weight = 1
+  url = "https://github.com/cailucky777"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/savina-cai/"
+
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+name = "Posts"
+url = '/posts'
+weight = 5
+
+[[menu.main]]
+name = "Archive"
+url = "archives"
+weight = 10
+
+[[menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
