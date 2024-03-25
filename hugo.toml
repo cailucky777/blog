@@ -1,4 +1,4 @@
-baseURL = 'https://cailucky777.github.io/luyingc.github.io/'
+baseURL = 'https://luyingc.github.io/'
 languageCode = 'en-us'
 title = 'Savina Blog'
 theme = [ "PaperMod" ]
