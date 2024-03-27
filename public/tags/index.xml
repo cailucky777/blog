@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Savina Blog</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://cailucky777.github.io/blog/tags/</link>
     <description>Recent content in Tags on Savina Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2024 12:29:05 -0700</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Mar 2024 12:29:05 -0700</lastBuildDate>
+    <atom:link href="https://cailucky777.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nikki</title>
+      <link>https://cailucky777.github.io/blog/tags/nikki/</link>
+      <pubDate>Wed, 27 Mar 2024 12:29:05 -0700</pubDate>
+      <guid>https://cailucky777.github.io/blog/tags/nikki/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Coffee</title>
-      <link>//localhost:1313/tags/coffee/</link>
+      <link>https://cailucky777.github.io/blog/tags/coffee/</link>
       <pubDate>Sun, 24 Mar 2024 12:29:05 -0700</pubDate>
-      <guid>//localhost:1313/tags/coffee/</guid>
+      <guid>https://cailucky777.github.io/blog/tags/coffee/</guid>
       <description></description>
     </item>
   </channel>

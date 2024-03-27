@@ -2,7 +2,7 @@
 title = "Coffee Tour -- About Time" 
 date = "2024-03-24T12:29:05-07:00" 
 draft = false 
-tags = ["Coffee"],["LA"] 
+tags = ["Coffee"]
 ShowToc = true 
 TocOpen = true 
 +++
